@@ -1,8 +1,8 @@
 - 👋 Hi, I’m hira
 - 👀 I’m open to work in IT from entry level to Cybersecurity(my passion)
 - 🌱 I’m currently learning Full Stack Developer Program through NPower
-- 💞️ I’m looking to collaborate as a team meat to meet our goal, 
-- 📫 reach me out via email
+- 💞️ I’m looking to collaborate as a team playerto meet our goal,
+- 📫 reach me out via email (hira.ikhan86@gmail.com)
 - 😄 She/Her's
 - ⚡ life is fun, enjoy it, befor it end
 
